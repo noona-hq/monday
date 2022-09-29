@@ -1,3 +1,3 @@
-module github.com/goodsign/monday
+module github.com/noona-hq/monday
 
 go 1.13
